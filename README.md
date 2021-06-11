@@ -27,3 +27,7 @@
 - Then a social media app with a focus on emotions and mental health (<a href="https://www.vent.co/" target="_blank">Vent</a>)
 - Then joined REA and worked on <a href="https://ignite.realestate.com.au/" target="_blank">Ignite</a>, a portal for real-estate agents to see their listings
 - Now I'm here
+
+## One quote that I try to live by
+![poster](https://user-images.githubusercontent.com/82794439/121618959-124a2700-caab-11eb-909c-c59b025b26f7.jpg)
+
